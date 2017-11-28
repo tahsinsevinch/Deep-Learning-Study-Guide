@@ -1,6 +1,6 @@
-#A Short Deep Learning Study Guide
+# A Short Deep Learning Study Guide
 
-##basic Machine Learning pre-requisites:
+## basic Machine Learning pre-requisites:
 
 - python http://docs.python-guide.org/en/latest/intro/learning/
 - Jupyter http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
@@ -12,7 +12,7 @@
 - Spark MLLib https://spark.apache.org/mllib/
 - Mathematical Foundations of Machine Learning: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 
-##Deep Learning
+## Deep Learning
 
 - neural networks refresher - https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 - DL tutorial - theano code, briefly covers all topics http://deeplearning.net/tutorial/
