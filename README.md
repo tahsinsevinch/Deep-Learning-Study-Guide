@@ -1,6 +1,6 @@
 # A Short Deep Learning Study Guide
 
-## basic Machine Learning pre-requisites:
+## Basic Machine Learning pre-requisites:
 
 - python http://docs.python-guide.org/en/latest/intro/learning/
 - Jupyter http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
