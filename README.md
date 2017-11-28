@@ -27,4 +27,4 @@
 - beyond Deep Learning - Reinforcement Learning: blog series: https://github.com/dennybritz/reinforcement-learning
 - summary of bleeding edge: OpenAI blogs: https://blog.openai.com/
 
-Kaynak: http://geekswithblogs.net/JoshReuben/archive/2017/11/28/a-short-deep-learning-study-guide.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+geekswithblogs+%28Geekswithblogs.net%29
+Kaynak: http://geekswithblogs.net/JoshReuben/archive/2017/11/28/a-short-deep-learning-study-guide.aspx
